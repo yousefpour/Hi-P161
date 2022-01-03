@@ -47,6 +47,7 @@ Docker/docker-compose.yml
       message: "What's new, Platform 161 folks!"
 ...
 
+cd Docker
 docker-compose up -d
 docker_db_1 is up-to-date
 Recreating docker_web_1 ... done
